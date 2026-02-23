@@ -1,10 +1,15 @@
 👋 Hi, I’m @Vinu1629
+
 👀 I’m interested in building scalable web applications, real-time systems, and modern UI/UX experiences.
+
 🌱 I’m currently learning advanced React patterns, system design concepts, and backend architecture with Node.js & Spring Boot.
+
 💞️ I’m looking to collaborate on full-stack projects, open-source contributions, and innovative SaaS products.
-📫 How to reach me: You can connect with me via LinkedIn or drop a mail at vinumishra.dev@gmail.com
+
+📫 How to reach me: You can connect with me via LinkedIn or drop a mail at vinay.mishra1629@gmail.com
 
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I enjoy turning complex problems into simple, elegant code solutions.
 
 <!---
