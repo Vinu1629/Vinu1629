@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on full-stack projects, open-source contributions, and innovative SaaS products.
 
-📫 How to reach me: You can connect with me via LinkedIn or drop a mail at vinay.mishra1629@gmail.com
+📫 How to reach me: You can connect with me via LinkedIn https://www.linkedin.com/in/vinay-mishra-77900a210/ or drop a mail at vinay.mishra1629@gmail.com
 
 😄 Pronouns: He/Him
 
